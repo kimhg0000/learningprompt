@@ -1,0 +1,374 @@
+됐다고 해석해서는 안 된다.
+
+### 주요 누적 근거
+- Brown et al. (2003), doi:10.1016/S0001-8791(02)00052-0
+- Whiston, Li, Mitts, &amp; Wright (2017), doi:10.1016/j.jvb.2017.03.010
+- Milot-Lapointe &amp; Arifoulline (2025), doi:10.1002/joec.12239
+
+## 5.2 문제 → 이론 → 개입 매칭
+
+| 주호소/관찰 | 먼저 볼 이론 | 개입의 핵심 | 결과지표 예 |
+|---|---|---|---|
+| “뭘 좋아하는지 모르겠다” | Holland + CCT | 활동 기반 흥미탐색, 작은 경험실험 | interest clarity, exploration |
+| “관심은 있는데 할 자신이 없다” | SCCT | mastery, modeling, graded tasks | CDSE, action |
+| “정보가 너무 많아 못 고르겠다” | Gati + CIP | difficulty diagnosis, 정보구조화, CASVE | CDDQ, decidedness |
+| “실패할까봐 조사조차 안 한다” | ACT/PF + SCCT | defusion/acceptance + 작은 가치행동 | PF, exploration |
+| “결정은 했는데 계속 흔들린다” | VISA | self-doubt vs flexibility vs depth exploration | VISA 6과정 |
+| “미래계획이 없다” | CCT/CAAS | concern–future orientation–planning | CAAS Concern |
+| “내가 통제할 수 있다는 느낌이 없다” | CCT + SCCT | agency, controllable steps, support | Control, SE |
+| “직업을 바꿔야 하는데 겁난다” | CCT/CCMA | 4C 자원 + adapting plan | adaptability, behavior |
+| “실직/실패 후 회복이 안 된다” | Career resilience + ACT | 사건 의미, 자원복구, 수용, 행동 | recovery trajectory |
+| “좋은 선택지가 현실적으로 없다” | PWT + STF | 제약지도, work volition, 자원·제도 연결 | volition, decent work |
+| “내 일이 무슨 의미인지 모르겠다” | CCT/Meaningful Work | life themes, values, meaning crafting | meaningful work |
+| “AI가 추천한 진로가 맞는지 모르겠다” | CIP + CCT + AI ethics | 출처 검증, 대안확장, explanation | agency, decision quality |
+
+## 5.3 이론별 상담 질문 뱅크
+
+### Holland
+- 어떤 활동을 할 때 시간이 빨리 가는가?
+- 좋아하는 활동과 잘하는 활동은 어디서 겹치고 어디서 갈리는가?
+- 결과가 아니라 과정 자체를 좋아하는 일은 무엇인가?
+
+### TWA
+- 이 일은 당신이 중요하게 여기는 것을 실제로 제공하는가?
+- 조직이 당신에게 기대하는 능력과 당신이 제공할 수 있는 능력은 어디서 맞는가?
+- 불일치가 있다면 환경을 바꿀 수 있는가, 역할을 조정할 수 있는가, 떠나야 하는가?
+
+### SCCT
+- 하고 싶지만 “나는 못할 것 같다”고 느끼는 과업은?
+- 그 믿음은 어떤 경험에서 만들어졌는가?
+- 실제로 시도했을 때 예상하는 결과는 무엇인가?
+- 당신에게 현실적인 지지와 장벽은 각각 무엇인가?
+
+### Gati/CIP
+- 아직 결정하지 못한 이유가 정보 부족인가, 갈등인가, 실행 두려움인가?
+- 자기정보와 직업정보 중 어느 쪽이 더 부족한가?
+- 지금 결정과정에서 가장 반복되는 자동적 생각은 무엇인가?
+
+### CCT/CCMA
+- 미래를 얼마나 구체적으로 생각하고 있는가? (Concern)
+- 내가 바꿀 수 있는 부분과 없는 부분을 구분할 수 있는가? (Control)
+- 어떤 선택지를 실제로 탐색해 봤는가? (Curiosity)
+- 어려움이 생겨도 해결할 수 있다는 근거는 무엇인가? (Confidence)
+- 자원은 있는데 행동하지 않는가, 자원 자체가 부족한가?
+
+### VISA
+- 여러 대안을 넓게 보는 단계인가, 특정 대안을 깊게 보는 단계인가?
+- 선택은 했지만 ‘내 선택’이라는 느낌이 드는가?
+- 지금의 흔들림은 열린 유연성인가, 자신에 대한 의심인가?
+
+### PWT
+- 현실적으로 선택 가능한 선택지의 폭은 어느 정도인가?
+- 돈, 지역, 돌봄, 차별, 학력·자격 조건이 선택에 어떤 제한을 주는가?
+- ‘원하는 일’ 이전에 최소한 지켜져야 할 근로조건은 무엇인가?
+
+### ACT/PF
+- 이 선택을 막고 있는 생각·감정을 없애려다 오히려 행동을 미루고 있지는 않은가?
+- 불안이 없어지지 않아도 할 수 있는 가장 작은 가치행동은 무엇인가?
+- 직업명이 아니라 삶의 방향에서 중요하게 여기는 가치는 무엇인가?
+
+## 5.4 상담자가 피해야 할 10가지
+1. 검사결과를 직업 처방전처럼 제시.
+2. 높은 흥미=높은 능력이라고 해석.
+3. 미결정을 단순 정보부족으로 취급.
+4. 탐색을 많이 할수록 무조건 건강하다고 가정.
+5. decidedness를 vocational identity maturity와 동일시.
+6. career adaptability가 낮다고 개인의 노력 부족으로 설명.
+7. calling을 모든 사람의 바람직한 목표로 강요.
+8. 구조적 장벽을 resilience 또는 긍정심리로 덮기.
+9. 내러티브 상담에서 상담자 해석을 ‘숨은 진실’처럼 제시.
+10. AI 추천점수를 과학적 객관성으로 오인.
+
+---
+
+# PART VI. 연구설계 지침
+
+## 6.1 연구문제별 가장 잘 맞는 설계
+
+| 연구 질문 | 권장 설계 | 핵심 주의 |
+|---|---|---|
+| 두 구성개념이 구별되는가? | CFA/ESEM, 필요 시 bifactor, HTMT 등 | fit index만 보지 말고 내용타당도 |
+| X가 Y보다 시간적으로 선행하는가? | 최소 2파, 가능하면 3파+ | CLPM의 between/within 혼합 |
+| 개인내 변화가 서로 영향을 주는가? | RI-CLPM, DSEM/ML-SEM | 충분한 wave·표본·간격 |
+| 평균 변화 궤적은? | LGM/LCSM | nonlinear 변화 가능성 |
+| 서로 다른 사람 유형이 있는가? | LPA | class 수를 fit 하나로 결정하지 않기 |
+| 유형이 시간에 따라 이동하는가? | LTA | measurement invariance·분류오차 |
+| 개입이 효과적인가? | RCT/active comparator/stepped design | 기대효과·상담자효과·충실도 |
+| 개입이 왜 효과적인가? | longitudinal mediation | M 변화가 Y보다 먼저 측정돼야 함 |
+| 어떤 개입이 누구에게 잘 맞는가? | moderator / person×treatment | 사전가설·power |
+| 여러 연구를 통합하려면? | systematic review/meta-analysis | 구성개념·효과크기 비등가성 |
+
+## 6.2 종단 연구 체크리스트
+- [ ] 이론이 제안하는 변화시간과 측정간격이 맞는가?
+- [ ] longitudinal measurement invariance를 검토했는가?
+- [ ] autoregressive stability를 고려했는가?
+- [ ] CLPM 결과를 개인내 변화로 잘못 해석하지 않았는가?
+- [ ] attrition이 체계적인지 확인했는가?
+- [ ] FIML/MI 사용 전 missingness 가정을 검토했는가?
+- [ ] 대안적 시간순서(역방향 효과)를 검토했는가?
+- [ ] 동일시점 self-report만으로 causal mediation을 주장하지 않았는가?
+- [ ] 객관적 행동/결과지표를 포함할 수 있는가?
+- [ ] 효과크기의 실질적 의미를 p-value와 분리해 해석했는가?
+
+## 6.3 CLPM vs RI-CLPM: 아주 짧은 구분
+**CLPM:** 사람 간 안정적 차이와 사람 내 변동이 섞여 있을 수 있다. “A가 높은 사람이 이후 B도 높은가?” 성격이 섞인다.  
+**RI-CLPM:** 안정적인 개인차를 random intercept로 분리하고, “평소 자기 수준보다 A가 높아진 시점에 이후 B도 변하는가?”에 더 가까운 within-person 질문을 다룬다.
+
+따라서 발달과정·상호작용을 주장하고 싶다면 연구질문이 between-person인지 within-person인지 먼저 정해야 한다.
+
+## 6.4 LPA/LTA에서 특히 조심할 점
+1. **Entropy가 높다고 최적 class가 되는 것은 아니다.**
+2. AIC/BIC/SSA-BIC, LMR/BLRT, class size, 해석가능성, 이론을 함께 본다.
+3. 잠재집단은 자연에 원래 존재하는 ‘종류’가 아니라 모형이 관찰패턴을 요약한 결과다.
+4. 다른 표본에서 class 수/형태가 재현되는지 확인한다.
+5. distal outcome/antecedent 분석은 BCH, R3STEP 등 분류오차를 고려하는 방법을 사용한다.
+6. LTA에서는 시점별 측정동일성과 class label alignment가 중요하다.
+7. transition probability만 보지 말고 **누가 이동하는지, 이동 후 무엇이 달라지는지**를 본다.
+8. 매우 작은 class를 흥미로운 발견이라고 과해석하지 않는다.
+9. class 수가 달라지면 이론 실패가 아니라 표본·발달단계·문화 차이 가능성을 검토한다.
+10. person-centered 결과와 variable-centered 종단경로를 상호보완적으로 본다.
+
+## 6.5 “매개효과가 유의했다”의 올바른 해석
+- **단면 매개:** 변수 간 공분산이 제안모형과 양립한다. 시간적 매개를 입증하지 않는다.
+- **2-wave half-longitudinal:** 시간적 정보가 일부 추가되지만 완전한 매개과정 검증은 아니다.
+- **3-wave 이상:** X(T1)→M(T2)→Y(T3), baseline controls를 사용하면 시간적 순서에 더 가까워진다.
+- **RCT mediation:** 개입이 M을 변화시키고 M 변화가 Y 변화를 설명하면 기제에 대한 더 강한 근거가 된다.
+- 어떤 설계에서도 대안모형과 construct overlap을 검토해야 한다.
+
+## 6.6 진로심리 연구에서 common-method bias를 줄이는 실전 방법
+- 동일한 척도형식만 반복하지 않는다.
+- 가능한 경우 behavioral log, administrative record, supervisor/peer rating을 병행한다.
+- predictor와 outcome의 측정시점을 분리한다.
+- 사회경제·노동시장 변수는 객관지표를 보조적으로 사용한다.
+- 모든 변수를 ‘긍정적 자기평가’ 척도로만 구성하지 않는다.
+- method factor 하나를 넣었다고 문제를 완전히 해결했다고 주장하지 않는다.
+
+## 6.7 좋은 이론통합과 나쁜 이론통합
+
+### 좋은 예
+“SCCT는 efficacy→behavior 기제를, PWT는 선택자유·구조적 제약을 설명하므로, 경제적 제약이 CDSE와 행동의 관계를 어떻게 조건화하는지 검증한다.”
+
+### 나쁜 예
+“SCCT, CCT, PWT, ACT가 모두 중요하므로 adaptability, resilience, flexibility, self-efficacy, grit, hope를 한 모형에 모두 넣는다.”
+
+**원칙:** 이론통합의 목적은 변수를 늘리는 것이 아니라 **서로 다른 설명수준 사이의 빈 연결고리를 검증하는 것**이다.
+
+
+---
+
+# PART VII. 2026년 이후 가치가 큰 연구공백
+
+## 7.1 CCMA의 ‘화살표를 되돌리는’ 연구
+**현재 근거:** adaptivity→adaptability→adapting→adaptation의 순차모형은 상당히 지지되지만, 2026년 리뷰는 feedback/cyclical pathways가 부족하다고 지적했다.  
+**핵심 질문:** 좋은 adaptation outcome이 다시 adaptability와 adaptivity를 키우는가? 실패는 반대로 self-doubt를 높이는가?  
+**추천 설계:** 4–6파 종단, RI-CLPM/LCSM, 중요한 전환사건 전후 집중측정.
+
+## 7.2 Career identity × Adaptability의 reciprocal dynamics
+**질문:** adaptability가 정체감 형성을 촉진하는가, 아니면 명료한 정체감이 adaptability 자원의 사용을 촉진하는가?  
+**추천:** VISA 6과정 + CAAS 4C를 3파 이상 측정. 총점끼리만 연결하지 말고 process-level relation을 본다.  
+**가치:** identity를 CCMA의 단순 A4 outcome으로만 두는 것보다 정교한 발달모형을 만들 수 있다.
+
+## 7.3 Vocational identity status의 ‘전이 기제’
+**질문:** 어떤 심리·맥락 자원이 achievement/searching moratorium으로 이동을 촉진하고, 어떤 요인이 moratorium/diffusion 지속을 예측하는가?  
+**추천:** LTA + predictors + distal outcomes, 분류오차 보정. 성별·학년 같은 배경변수만이 아니라 심리적·맥락적 mechanism을 중심으로 설계.
+
+## 7.4 Psychological flexibility → Adaptability → Action
+**현재 근거:** 단면·소수 종단연구가 연결을 지지하지만 누적근거는 초기 단계.  
+**질문:** PF가 career-specific adaptability에 증분설명력을 갖는가? ACT 기반 짧은 개입이 실제 career behavior를 늘리는가?  
+**추천:** 3-wave 또는 RCT, MPFI/PPFI/WAAQ 계열 + CAAS + 실제 행동지표.  
+**핵심 검증:** PF와 adaptability의 discriminant/incremental validity.
+
+## 7.5 PWT의 시간적·구조적 검증
+**현재 근거:** decent work와 work volition의 누적 상관/경로근거가 강해지는 중이나 단면연구 비중이 크다.  
+**질문:** 경제적 제약의 변화가 volition의 변화를 거쳐 decent work 이동을 실제로 예측하는가?  
+**추천:** 졸업 전–첫 직장–1년 후 추적, 객관적 고용조건 + subjective DWS 병행.
+
+## 7.6 AI Career Guidance의 실제 효과
+**현재 근거:** 2026년 체계적 고찰은 43개 연구를 찾았지만 prototype·단기 평가가 많다.  
+**가장 중요한 비교:** Human-only vs AI-only vs Human+AI.  
+**Outcome:** 탐색폭, 결정의 질, CDSE, agency, 실제 행동, 장기 만족, automation bias, 오류인식.  
+**실험요인:** 출처표시/XAI, AI literacy training, 추천 방식(단일 추천 vs 대안 확장).
+
+## 7.7 ‘무엇이 누구에게 효과적인가’ career intervention 연구
+평균효과를 넘어서 baseline indecision profile, identity status, self-efficacy, barriers에 따라 개입반응이 다른지 검증한다.  
+**예:** 정보부족형은 information module, self-doubt형은 ACT/CBT+behavioral module이 상대적으로 더 도움이 되는가?
+
+## 7.8 구조와 개인자원을 동시에 보는 연구
+career adaptability, resilience, growth mindset 같은 개인자원만으로 결과를 설명하는 연구는 포화되기 쉽다.  
+**추천:** 개인자원 × opportunity structure, SES, regional labor market, parental resources, institutional support를 함께 측정.
+
+## 7.9 Career resilience의 process measurement
+**공백:** trait-like resilience 척도는 ‘역경 후 회복’을 직접 포착하지 못한다.  
+**추천:** career shock event sampling + repeated measures. adversity severity, resource mobilization, behavior, recovery outcome을 시간순으로 분리.
+
+## 7.10 Construct redundancy를 줄이는 연구
+2026년 CCMA psychometric 연구와 contemporary career 메타문헌은 adaptability, protean orientation, boundaryless mindset, proactivity, competencies의 중복 가능성을 보여준다.  
+**연구기회:** 더 큰 상위요인을 만드는 것보다 “어떤 구성개념이 어떤 outcome에 **고유한 증분설명력**을 제공하는가”를 엄격히 검증.
+
+## 7.11 비서구·지역 맥락 연구
+서구 이론을 한국에 단순 적용하는 것보다:
+- 가족의 정보·정서·경제·경험 지원을 분리
+- 높은 교육경쟁과 자격 신호
+- 수도권/비수도권 노동시장
+- 병역·휴학·공무원/자격시험 같은 비선형 전환
+- 조직규범과 가족기대
+를 명시적으로 모형화하는 연구가 가치 있다.
+
+## 7.12 “평균 대학생” 대신 전환사건 중심 연구
+학년만으로 발달단계를 대체하지 말고:
+- 전공선택/변경
+- 인턴십
+- 첫 구직
+- 채용탈락
+- 졸업유예
+- 첫 취업
+같은 **실제 사건 전후**를 추적하면 이론적 변화기제를 더 직접 포착할 수 있다.
+
+---
+
+# PART VIII. 바로 연구로 발전시킬 수 있는 12개 연구안
+
+## A. 정체감의 이동은 무엇이 만드는가?
+- **Design:** 3–4 wave LTA
+- **Predictors:** adaptability, psychological flexibility, barriers/support
+- **Outcome:** career preparation behavior, well-being
+- **핵심:** status의 단순 기술을 넘어 transition mechanism 검증
+
+## B. Searching moratorium은 항상 위험한가?
+- **Design:** longitudinal person-centered
+- **가설:** 높은 탐색+높은 전념+높은 재고 상태의 결과는 self-doubt와 flexibility의 세부 조합에 따라 달라진다.
+- **핵심:** reconsideration을 하나의 부정요인으로 묶지 않기.
+
+## C. PF는 adaptability와 정말 다른가?
+- **Design:** CFA/ESEM + longitudinal incremental validity
+- **비교:** PF vs CAAS vs CDSE
+- **Outcome:** actual exploration/preparation
+- **핵심:** 새 construct 연구에서 가장 먼저 discriminant validity를 검증
+
+## D. ACT 기반 micro-intervention이 진로행동을 바꾸는가?
+- **Design:** active-control RCT
+- **Intervention:** values + defusion + committed action
+- **Mediator:** PF/adaptability
+- **Outcome:** 4주간 실제 career behavior log
+
+## E. AI가 탐색을 넓히나, 좁히나?
+- **Design:** randomized experiment
+- **조건:** no-AI / single-answer AI / alternative-expanding AI + source explanation
+- **Outcome:** option breadth, agency, decision confidence, automation bias
+- **이론:** CCT + CIP
+
+## F. AI+상담자가 가장 나은가?
+- **Design:** human-only vs AI-only vs hybrid
+- **대상:** 대학생 진로미결정
+- **Outcome:** CDDQ, CDSE, satisfaction, actual action at 1–3 months
+- **중요:** efficiency뿐 아니라 error/fairness 포함
+
+## G. 경제적 장벽이 높아도 누가 decent work에 접근하는가?
+- **Design:** 3-wave PWT
+- **Path:** constraints → volition/adaptability → decent-work attainment
+- **Moderator:** institutional/social support
+- **객관지표:** 임금, 계약 안정성, 근로시간 등을 가능한 범위에서 병행
+
+## H. Career shock 이후 회복의 궤적
+- **Design:** event-triggered longitudinal
+- **대상:** 취업실패, 구조조정, 전공/직무 이탈 경험자
+- **Variables:** shock severity, PF, support, adaptability, identity, behavior
+- **주의:** growth mixture는 충분한 표본·이론이 있을 때만
+
+## I. 어떤 진로미결정 유형에 어떤 개입이 맞나?
+- **Design:** baseline CDDQ profile → modular intervention
+- **비교:** information / cognitive restructuring / action-exposure
+- **Goal:** precision career counseling
+
+## J. Career adaptability는 정말 4C여야 하나?
+- **Design:** large N + longitudinal + outcome-specific relative weights
+- **Goal:** 총점의 예측력을 넘어 Concern/Control/Curiosity/Confidence가 서로 다른 결과를 예측하는지 검증
+- **가치:** dimension-specific intervention 근거 강화
+
+## K. Career identity × decent work
+- **질문:** 안정적 정체감이 decent work 접근을 돕는가, 아니면 decent work 경험이 직업정체성을 안정시키는가?
+- **Design:** school-to-work 3-wave+
+- **이론:** VISA + PWT
+- **핵심:** identity를 개인내적 발달로만 보지 않고 실제 일의 질과 연결
+
+## L. 부모지원의 ‘양’보다 ‘기능’
+- **질문:** 정보·대화·정서·경제·경험 지원이 exploration, commitment, preparation에 각각 다른 역할을 하는가?
+- **Design:** longitudinal, subtype-specific support
+- **핵심:** 총 부모지원 점수보다 지원 유형의 기능적 차이를 검증
+
+---
+
+# PART IX. 이 분야를 관통하는 15개의 큰 명제
+
+1. **진로는 fit이지만 fit만은 아니다.**
+2. **흥미는 중요한 예측요인이지만 정답 직업을 결정하지 않는다.**
+3. **진로결정은 상태가 아니라 정보·인지·정서·관계·행동의 과정이다.**
+4. **self-efficacy는 강력하지만 실제 기회구조를 대체하지 않는다.**
+5. **career adaptability는 핵심 자원이지만 만능변수가 아니다.**
+6. **정체성은 ‘결정했는가’보다 탐색·전념·재고가 어떻게 결합되는가가 중요하다.**
+7. **탐색은 양보다 형태와 기능이 중요하다.**
+8. **좋은 진로개입은 기법보다 먼저 병목을 진단한다.**
+9. **decent work, meaningful work, calling은 서로 다른 질문에 답한다.**
+10. **구조적 장벽을 개인의 resilience 문제로 번역하면 왜곡될 수 있다.**
+11. **종단이론을 단면 SEM으로 검증했다고 표현하면 안 된다.**
+12. **status/profile은 발견된 자연종류가 아니라 확률적 모형의 요약이다.**
+13. **새 구성개념의 첫 과제는 기존 구성개념과의 차별성 입증이다.**
+14. **AI는 탐색 보조에는 유망하지만 의사결정 권위를 넘겨받을 근거는 아직 없다.**
+15. **진로상담의 궁극적 결과는 좋은 점수보다 더 나은 행동·적응·삶이어야 한다.**
+
+---
+
+# PART X. 필독 문헌 로드맵
+
+## Tier 1 — 뼈대를 만드는 원전 18편
+1. Parsons, F. (1909). *Choosing a Vocation.*
+2. Holland, J. L. (1959). *A theory of vocational choice.* doi:10.1037/h0040767
+3. Super, D. E. (1953). *A theory of vocational development.* doi:10.1037/h0056046
+4. Super, D. E. (1980). *A life-span, life-space approach to career development.* doi:10.1016/0001-8791(80)90056-1
+5. Super, D. E., &amp; Knasel, E. G. (1981). *Career development in adulthood.* doi:10.1080/03069888108258214
+6. Dawis, R. V., &amp; Lofquist, L. H. (1984). *A Psychological Theory of Work Adjustment.*
+7. Gottfredson, L. S. (1981). *Circumscription and compromise: A developmental theory of occupational aspirations.*
+8. Lent, R. W., Brown, S. D., &amp; Hackett, G. (1994). *Toward a unifying social cognitive theory of career and academic interest, choice, and performance.* doi:10.1006/jvbe.1994.1027
+9. Gati, I., Krausz, M., &amp; Osipow, S. H. (1996). *A taxonomy of difficulties in career decision making.* doi:10.1037/0022-0167.43.4.510
+10. Savickas, M. L. (1997). *Career adaptability: An integrative construct for life-span, life-space theory.* doi:10.1002/j.2161-0045.1997.tb00469.x
+11. Mitchell, K. E., Levin, A. S., &amp; Krumboltz, J. D. (1999). *Planned happenstance.* doi:10.1002/j.1556-6676.1999.tb02431.x
+12. McMahon, M., &amp; Patton, W. (1995). *Development of a Systems Theory of Career Development.* doi:10.1177/103841629500400207
+13. Savickas, M. L. et al. (2009). *Life designing: A paradigm for career construction in the 21st century.* doi:10.1016/j.jvb.2009.04.004
+14. Porfeli, E. J., Lee, B., Vondracek, F. W., &amp; Weigold, I. K. (2011). *A multi-dimensional measure of vocational identity status.* doi:10.1016/j.adolescence.2011.02.001
+15. Savickas, M. L., &amp; Porfeli, E. J. (2012). *Career Adapt-Abilities Scale...* doi:10.1016/j.jvb.2012.01.011
+16. Lent, R. W., &amp; Brown, S. D. (2013). *Social cognitive model of career self-management.* doi:10.1037/a0033446
+17. Duffy, R. D., Blustein, D. L., Allan, B. A., Diemer, M. A., et al. (2016). *The Psychology of Working Theory.* doi:10.1037/cou0000140
+18. Savickas, M. L. et al. (2018). *The Student Career Construction Inventory.* doi:10.1016/j.jvb.2018.01.009
+
+## Tier 2 — 누적근거를 확인하는 메타분석/종설 20편
+19. Nauta, M. M. (2010). Holland theory review. doi:10.1037/a0018213
+20. Sheu, H.-B. et al. (2010). SCCT choice model meta-analytic path analysis. doi:10.1016/j.jvb.2009.10.015
+21. Nye, C. D., Su, R., Rounds, J., &amp; Drasgow, F. (2012). *Vocational interests and performance.* doi:10.1177/1745691612449021
+22. Brown, S. D. et al. (2003). *Critical ingredients of career choice interventions.* doi:10.1016/S0001-8791(02)00052-0
+23. Whiston, S. C., Li, Y., Mitts, N., &amp; Wright, L. (2017). *Effectiveness of career choice interventions.* doi:10.1016/j.jvb.2017.03.010
+24. Johnston, C. S. (2018). *A systematic review of the career adaptability literature and future outlook.* doi:10.1177/1069072716679921
+25. Rudolph, C. W., Lavigne, K. N., &amp; Zacher, H. (2017). *Career adaptability: A meta-analysis...* doi:10.1016/j.jvb.2016.09.002
+26. Rudolph, C. W., Lavigne, K. N., Katz, I. M., &amp; Zacher, H. (2017). *Linking dimensions of career adaptability to adaptation results.* doi:10.1016/j.jvb.2017.06.003
+27. Lent, R. W., &amp; Brown, S. D. (2019). *SCCT at 25.* doi:10.1016/j.jvb.2019.06.004
+28. Wiernik, B. M., &amp; Kostal, J. W. (2019). *Protean and boundaryless career orientations: A critical review and meta-analysis.* doi:10.1037/cou0000324
+29. Guan, Y. et al. (2018). Boundaryless career review. doi:10.1016/j.jvb.2018.05.013
+30. Hanna, A., &amp; Rounds, J. (2020). *How accurate are interest inventories?* doi:10.1037/bul0000269
+31. Mishra, P., &amp; McDonald, K. (2017). *Career Resilience: An Integrated Review.* doi:10.1177/1534484317719622
+32. Thompson, J. A., &amp; Bunderson, J. S. (2019). Work as a Calling review. doi:10.1146/annurev-orgpsych-012218-015140
+33. Riza, S. D. et al. (2023). *Calling and the Good Life: Meta-Analysis and Theoretical Extension.* doi:10.1177/00018392231159641
+34. Blustein, D. L., Lysova, E. I., &amp; Duffy, R. D. (2023). *Understanding Decent Work and Meaningful Work.* doi:10.1146/annurev-orgpsych-031921-024847
+35. Udayar, S. et al. (2020). Career indecision/self-efficacy meta-analysis. doi:10.1177/1069072720910089
+36. Career Adaptability and Career Decision Self-Efficacy meta-analysis. doi:10.1177/08948453211012477
+37. Rad et al. (2025). Workplace ACT systematic review. doi:10.1016/j.jcbs.2025.100915
+38. Milot-Lapointe &amp; Arifoulline (2025). Individual career counseling meta-analysis. doi:10.1002/joec.12239
+
+## Tier 3 — 2025–2026 최전선 12편
+39. Choi, Y. et al. (2025). *Predictors of decent work within PWT: A meta-analysis.* doi:10.1037/cou0000849
+40. Atay, B., Cingöz-Ulu, B., Autin, K. L., &amp; Allan, B. A. (2026). *Work Volition and Decent Work: A Meta-Analysis.* doi:10.1002/cdq.70023
+41. Newman, A. et al. (2025). *Work volition: A systematic review.* doi:10.1016/j.hrmr.2025.101118
+42. De Rosa, A., Akkermans, J., Khapova, S. N., &amp; Lo Presti, A. (2026). *Career competencies: a meta-analysis.* doi:10.1108/CDI-10-2025-0572
+43. Yuwen, Z., Xiao, Y., &amp; Yao, X. (2026). *The dynamic process of individual career adaptation: CCMA.* doi:10.3724/SP.J.1042.2026.1695
+44. Sam, Y. L. et al. (2026). *A psychometric examination of the CCMA in working adults and students.* doi:10.3389/fpsyg.2026.1799936
+45. Šimunović, M., Šverko, I., &amp; Babarović, T. (2026). *Vocational Identity Development in Croatian Adolescents.* doi:10.1177/10690727261430348
+46. Sarmurzin, Y. et al. (2026). *Implementation of AI in career counselling for university students: a systematic review.* doi:10.3389/feduc.2026.1787689
+47. Duffy, R. D. et al. (2023). *Recommendations for Conceptualizing and Measuring Constructs 
