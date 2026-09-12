@@ -1,0 +1,369 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>진로상담·진로심리 연구 백과사전 v1.0</title><style>
+:root{--fg:#18212a;--muted:#5d6975;--line:#dce2e7;--soft:#f6f8fa;--accent:#203864}
+*{box-sizing:border-box} body{max-width:1120px;margin:auto;padding:38px 48px 90px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans KR",Arial,sans-serif;color:var(--fg);line-height:1.72}
+h1,h2,h3{color:var(--accent);line-height:1.3;margin-top:1.7em} h1{border-bottom:3px solid var(--accent);padding-bottom:.35em} h2{border-bottom:1px solid var(--line);padding-bottom:.25em}
+table{border-collapse:collapse;width:100%;font-size:.93rem;margin:1.2em 0;display:block;overflow-x:auto} th,td{border:1px solid var(--line);padding:.55em .65em;vertical-align:top} th{background:var(--soft);text-align:left}
+blockquote{margin:1em 0;padding:.8em 1em;background:var(--soft);border-left:4px solid var(--accent)} a{color:#245ea8}
+code{background:var(--soft);padding:.1em .3em;border-radius:4px} hr{border:0;border-top:1px solid var(--line);margin:2em 0}
+li{margin:.2em 0} @media(max-width:760px){body{padding:22px 18px 60px}table{font-size:.84rem}}
+@media print{body{max-width:none;padding:0 12mm} a{color:inherit;text-decoration:none}}
+</style></head>
+<body><pre># 진로상담·진로심리 연구 백과사전 v1.0
+
+
+## Evidence-Mapped Knowledge Base
+**기준일:** 2026-09-12  
+**범위:** 직업심리학(vocational psychology), 진로발달, 진로의사결정, 진로상담, 학교-직업 전환, 현대 경력(career) 연구  
+**용도:** 연구주제 발굴 · 논문 이론틀 선택 · 척도 선택 · 상담 사례개념화 · 대학 강의 · 체계적 문헌고찰의 출발점
+
+&gt; **한계 선언:** 이 자료는 “완전한 체계적 문헌고찰”이 아니라, 고전 원전과 2026년 9월까지 확인 가능한 주요 메타분석·체계적 고찰·종단연구를 연결한 **연구용 evidence map**이다. 검색에서 누락된 연구가 있을 수 있으며, 아래의 근거등급은 GRADE 같은 공식 평가도구가 아니라 문헌의 양·설계·일관성을 종합한 실용적 분류다.
+
+---
+
+## 0. 이 백과사전을 읽는 법
+
+진로심리학은 하나의 이론으로 설명되지 않는다. 이 자료는 이론을 “서로 경쟁하는 정답”이 아니라 **서로 다른 질문에 답하는 도구**로 배치한다.
+
+- **무엇이 나와 맞는가?** → Parsons, Holland, TWA
+- **진로는 시간에 따라 어떻게 발달하는가?** → Super, Career Construction Theory
+- **왜 어떤 사람은 관심을 행동으로 옮기고 어떤 사람은 못 옮기는가?** → SCCT, Career Self-Management
+- **왜 결정을 못 하는가?** → Gati의 진로의사결정곤란, CIP
+- **변화와 불확실성에 어떻게 적응하는가?** → Career Adaptability, CCMA, Planned Happenstance
+- **진로정체감은 어떻게 탐색·전념·재고 과정을 거치는가?** → Vocational Identity Status / VISA
+- **선택의 자유 자체가 제한된 사람의 진로를 어떻게 설명할 것인가?** → Psychology of Working Theory
+- **맥락·가족·문화·제도·우연을 어떻게 함께 볼 것인가?** → Systems Theory Framework
+- **일을 ‘소명’ 또는 ‘의미’로 경험하는 것은 무엇인가?** → Calling, Meaningful Work
+- **불안·의심·회피가 있어도 가치에 맞는 진로행동을 어떻게 지속할 것인가?** → Psychological Flexibility / ACT
+- **AI 시대 진로지원을 어떻게 설계할 것인가?** → 기존 이론 + human-in-the-loop AI guidance
+
+### 근거등급
+| 등급 | 의미 | 해석 |
+|---|---|---|
+| **A** | 다수의 메타분석/체계적 고찰과 반복검증, 종단·개입근거 중 일부 확보 | 핵심 연구틀로 사용하기 좋음 |
+| **B** | 상당한 실증연구가 있으나 설계·측정·인과성 한계가 남음 | 충분히 사용 가능하되 한계를 명시 |
+| **C** | 이론적 영향력은 크지만 직접적 누적효과 검증이 제한적이거나 구성개념이 분산 | 사례개념화·가설생성에 유용 |
+| **D** | 역사적/개념적 가치가 중심이며 현대적 직접 검증이 부족 | 배경이론·역사적 맥락으로 활용 |
+
+**주의:** 근거등급은 “좋은 이론/나쁜 이론”의 순위가 아니다. 예를 들어 STF는 통계적 인과모형이 아니라 메타이론이므로, 메타분석이 적다는 사실 자체가 이론의 목적 실패를 의미하지 않는다.
+
+---
+
+# PART I. 한눈에 보는 진로심리학의 전체 지도
+
+## 1. 120년의 흐름
+
+### 1단계: 적합성의 시대 — “사람과 직업을 맞추자”
+- **Parsons (1909)**: 자기이해 + 직업세계 이해 + 합리적 연결.
+- **Holland (1959 이후)**: 개인과 환경을 RIASEC 유형으로 표현하고 일치(congruence)를 본다.
+- **Theory of Work Adjustment (Dawis &amp; Lofquist)**: 능력–요구, 욕구/가치–강화요인 간 correspondence와 만족/만족스러움(satisfactoriness)을 본다.
+
+### 2단계: 발달의 시대 — “직업선택은 한 번의 결정이 아니다”
+- **Super**: 자아개념이 생애 전반에서 직업 역할 속에 구현되며, 삶의 여러 역할이 서로 영향을 준다.
+- 직업성숙(career maturity)에서 성인기의 **career adaptability** 개념으로 점차 이동.
+
+### 3단계: 학습·인지·맥락의 시대 — “경험과 믿음이 행동을 만든다”
+- **Krumboltz**: 학습경험, 우연, 탐색행동.
+- **SCCT (Lent, Brown, Hackett, 1994)**: 자기효능감, 결과기대, 흥미, 목표, 지지/장벽이 선택·수행을 만든다.
+- **Gati / CIP**: 좋은 결정을 방해하는 구체적 정보·인지·갈등 과정을 분석.
+
+### 4단계: 구성주의·적응의 시대 — “개인은 변화 속에서 경력을 구성한다”
+- **Career Construction Theory (Savickas)**: vocational personality + career adaptability + life themes.
+- **CCMA**: adaptivity → adaptability → adapting → adaptation의 4A.
+- **Life Design / Career Construction Counseling**: 점수만 해석하기보다 이야기, 의미, 정체성, 미래 설계를 다룬다.
+- **Systems Theory Framework**: 개인·사회·제도·시간·우연을 하나의 시스템 지도로 본다.
+
+### 5단계: 접근·공정성·일의 질의 시대 — “누가 선택할 수 있는가?”
+- **Psychology of Working Theory (Duffy et al., 2016)**: 경제적 제약과 주변화가 work volition·career adaptability를 통해 decent work 접근에 영향을 준다고 본다.
+- 현대 진로심리학은 “선택 능력”뿐 아니라 **선택 가능성의 구조적 차이**를 연구한다.
+
+### 6단계: 지속가능성·디지털·AI의 시대 — “자율성과 기술을 어떻게 함께 지킬 것인가?”
+- protean/boundaryless career, career competencies, sustainable careers.
+- AI 기반 추천·챗봇·예측분석이 등장했으나, 장기효과·공정성·설명가능성·자동화 편향에 대한 근거는 아직 성장 중이다.
+- 2026년 체계적 고찰은 AI 진로지원을 **인간 상담자를 대체하기보다 보완하는 hybrid model**로 보는 방향을 제시한다.
+
+## 2. 핵심 이론 비교표
+
+| 이론/모형 | 핵심 질문 | 대표 구성개념 | 대표 도구 | 근거 | 가장 잘 쓰이는 장면 |
+|---|---|---|---|---|---|
+| Parsons / Trait-Factor | 나는 무엇과 맞는가? | 자기특성, 직업요구, 합리적 매칭 | 흥미·가치·능력 검사 | D | 진로평가의 출발점 |
+| Holland RIASEC | 흥미-환경 일치가 어떤 결과와 연결되는가? | RIASEC, congruence, differentiation | SDS, O*NET Interest Profiler 등 | **A-** | 흥미·직업탐색 |
+| TWA | 사람과 직무가 서로 만족하는가? | abilities, needs/values, reinforcers, satisfaction, satisfactoriness | MIQ, MSQ 등 | **B+** | 직무적합·직업유지 |
+| Super | 진로는 생애에서 어떻게 발달하는가? | self-concept, life roles, stages/tasks, adaptability | C-DAC 계열 | **B** | 발달과업·생애역할 |
+| Gottfredson | 왜 가능한 선택지가 일찍 좁아지는가? | circumscription, compromise, social space | 연구용 지표 | C | 아동·청소년 선택범위 |
+| Krumboltz / HLT | 학습·우연을 어떻게 기회로 만드는가? | learning, chance, curiosity, persistence 등 | 단일 표준척도 없음 | C | 탐색 촉진·불확실성 |
+| SCCT | 믿음과 맥락이 선택·수행을 어떻게 만드는가? | self-efficacy, outcome expectations, interests, goals, supports/barriers | 영역특이 척도, CDSE | **A** | 전공/직업 선택 |
+| Career Self-Management | 어떻게 적응적 진로행동을 스스로 관리하는가? | adaptive behavior, SE, expectations, goals | 행동별 측정 | **A-/B+** | 탐색·준비·네트워킹 |
+| Gati CDD | 왜 결정을 못 하는가? | readiness, information, inconsistency | CDDQ | **A-/B+** | 진로미결정 진단 |
+| CIP | 생각이 의사결정을 어떻게 돕거나 방해하는가? | knowledge domains, CASVE, executive processing | CTI 등 | B | 부정적 진로사고 |
+| Career Construction Theory | 변화 속에서 어떻게 경력을 구성하는가? | vocational personality, adaptability, life themes | CAAS, CCI 등 | **A-/B+** | 전환·의미·정체성 |
+| CCMA | 적응은 어떤 과정으로 일어나는가? | 4A | CAAS, SCCI + 결과지표 | **A-/B+** | 종단 경로·적응행동 |
+| Career Construction Counseling | 이야기를 어떻게 미래 행동으로 재구성하는가? | narrative, themes, adaptability | CCI 등 | B-/C+ | 전환·정체성·의미 |
+| STF | 진로를 둘러싼 전체 시스템은 무엇인가? | 개인·사회·환경·시간·우연 | MSCI 등 | B-/C | 복합 사례개념화 |
+| PWT | 선택의 자유와 decent work 접근은 무엇이 결정하는가? | constraints, marginalization, work volition, adaptability, decent work | WVS, DWS | **A-/B+** | 취약·불평등·일의 질 |
+| Protean/Boundaryless | 현대 경력에서 자기주도성·경계이동은 어떤 역할을 하나? | self-direction, values, mobility | PCAS, BCAS | **B+** | 현대 경력태도 |
+| Vocational Identity / VISA | 탐색·전념·재고가 어떤 상태와 변화로 나타나는가? | exploration, commitment, reconsideration | VISA | **B+** | 청소년·대학생 정체감 |
+| Calling / Meaningful Work | 일은 왜 의미 있게 느껴지는가? | calling, meaningfulness | CVQ, WAMI 등 | **B+** | 일의 의미·상담 |
+| Career Resilience | 역경 이후 경력을 어떻게 지속·회복하는가? | adversity + positive adaptation | 여러 척도 | B-/C+ | 경력충격·실직 |
+| Psychological Flexibility | 불편한 내적 경험 속에서도 가치행동을 지속하는가? | acceptance, defusion, values, committed action | WAAQ, MPFI 등 | B(일반)/C+(진로) | 불안·회피·가치행동 |
+| AI-assisted Career Guidance | AI를 어떻게 보조도구로 쓸 것인가? | XAI, agency, automation bias | 표준 없음 | C | 정보·탐색·시뮬레이션 |
+
+---
+
+# PART II. 핵심 이론·모형 카드
+
+## 1. Parsons의 Trait–Factor 접근 — 근거 D
+**핵심 질문:** 개인의 특성과 직업의 특성을 알면 더 합리적인 선택을 할 수 있는가?
+
+### 핵심 구성
+1) **자기이해**: 적성, 능력, 흥미, 자원, 한계 등을 파악한다.  
+2) **직업세계 이해**: 직업의 요구, 성공조건, 보상, 전망을 파악한다.  
+3) **합리적 추론**: 두 정보를 연결해 선택한다.
+
+### 작동 논리
+오늘날의 흥미검사, 직업정보, person–environment fit, 의사결정 지원은 이 전통의 후손이다. 현대 진로심리학은 여기에 발달·학습·정체성·맥락·구조적 제약을 추가했다.
+
+### 대표 측정/상담
+단일한 ‘Parsons 척도’가 있는 것이 아니라 흥미·능력·가치·직업정보 도구들이 이 접근을 구현한다. 검사 결과를 ‘정답 직업’으로 제시하기보다 **가설 생성 도구**로 사용해야 한다.
+
+### 한계
+개인의 특성이나 직업세계가 안정적이고 객관적으로 측정 가능하다는 가정을 과도하게 확대하면 안 된다. 계층·성별·지역·노동시장 제약, 우연, 발달과 변화, 자기서사의 영향을 충분히 설명하지 못한다.
+
+**핵심 문헌:** Parsons, F. (1909). *Choosing a Vocation.*
+
+## 2. Holland의 RIASEC 이론 — 근거 A-
+**핵심 질문:** 사람의 직업흥미와 환경의 특성이 얼마나 잘 맞는가, 그리고 그 일치가 선택·만족·지속과 어떤 관계가 있는가?
+
+### 핵심 구성
+여섯 유형: **Realistic, Investigative, Artistic, Social, Enterprising, Conventional**.  
+핵심 개념은 congruence(일치), differentiation(분화), consistency(일관성), identity(명료성)다.
+
+### 현재까지의 근거
+RIASEC 구조 자체는 폭넓게 연구됐다. Nauta(2010)는 구조에 대한 지지가 강한 반면 congruence의 예측력은 보통 **유의하지만 크지 않고**, differentiation·consistency 등 일부 부가명제의 근거는 혼재한다고 정리했다. Nye et al.(2012)은 60개 연구, 약 15,301명을 종합해 직업흥미가 수행·지속과 관련되고, congruence 계수가 수행 예측에 기여함을 보고했다. Hoff et al.(2020)은 interest fit과 직무만족의 관계가 전체적으로 작지만 일관된 수준임을 보고했다. Hanna &amp; Rounds(2020)는 130개 연구, N=309,033을 통합해 흥미검사의 진로선택 예측 유용성을 검토했다.
+
+### 대표 측정
+Self-Directed Search(SDS), Strong Interest Inventory, O*NET Interest Profiler 등. 도구별 규준·저작권·검사해석 조건을 확인해야 한다.
+
+### 상담에서의 번역
+‘S형이니 상담사’처럼 유형을 처방하지 않는다. ① 상위 코드와 활동 패턴을 읽고 ② 실제 경험과 일치 여부를 검토하며 ③ 유사한 환경 여러 개를 탐색하고 ④ 가치·능력·기회·장벽과 통합한다.
+
+### 중요한 한계
+‘일치가 높으면 성공한다’는 결정론은 근거를 과장한다. 같은 RIASEC 코드 안에서도 직무질·상사·자율성·고용안정은 크게 다르며 사회구조적 선택제약은 별도 측정이 필요하다.
+
+**핵심 문헌:** Holland (1959), doi:10.1037/h0040767; Nauta (2010), doi:10.1037/a0018213; Nye et al. (2012), doi:10.1177/1745691612449021; Hanna &amp; Rounds (2020), doi:10.1037/bul0000269.
+
+## 3. Theory of Work Adjustment (TWA) — 근거 B+
+**핵심 질문:** 개인이 직무에 적합할 뿐 아니라, 직무가 개인에게 필요한 것을 제공하는가?
+
+### 핵심 구성
+- **Abilities ↔ Ability requirements** → 조직이 평가하는 satisfactoriness  
+- **Needs/Values ↔ Reinforcers** → 개인이 느끼는 satisfaction  
+둘이 함께 높을수록 tenure/유지 가능성이 높아진다는 가설이다. full theory에는 flexibility, activeness, reactiveness, perseverance 같은 adjustment style도 포함된다.
+
+### 작동 논리와 근거
+사람과 환경은 서로 요구를 가진다. correspondence가 깨지면 개인이 환경을 바꾸거나, 자신을 바꾸거나, 불일치를 견디거나 떠나는 방식으로 조정한다. TWA는 직업심리학의 핵심 P–E correspondence 모형이지만, ‘fit’을 어떻게 계산하느냐에 따라 결과가 달라지는 측정 문제가 오래 지속돼 왔다.
+
+### 대표 측정
+Minnesota Importance Questionnaire(MIQ), Minnesota Satisfaction Questionnaire(MSQ), 능력/직무요구 도구.
+
+### 상담
+‘내가 이 일을 잘할 수 있는가?’와 ‘이 일이 내가 중요하게 여기는 것을 제공하는가?’를 분리해 묻는다.
+
+### 한계
+정적 fit 점수만으로 동적 경력변화를 설명하기 어렵고, 동일한 fit이라도 노동시장 권력관계나 고용조건이 다를 수 있다.
+
+**핵심 문헌:** Dawis &amp; Lofquist (1984), *A Psychological Theory of Work Adjustment*; Rounds, Dawis, &amp; Lofquist (1987), doi:10.1016/0001-8791(87)90045-5.
+
+## 4. Super의 Life-Span, Life-Space 이론 — 근거 B
+**핵심 질문:** 진로는 삶의 시간과 역할 속에서 어떻게 발달하는가?
+
+### 핵심 구성
+자아개념(self-concept), 생애발달, 발달과업, 여러 life roles의 상호작용. career는 단일 직업이 아니라 일생에 걸쳐 수행하는 역할들의 연속과 조합으로 본다.
+
+### 작동 논리
+사람은 경험과 사회적 상호작용 속에서 자아개념을 형성하고 이를 교육·직업 역할에서 구현하려 한다. 성장–탐색–확립–유지–쇠퇴 같은 단계 개념이 널리 알려졌지만, 후기 이론에서는 순환과 전환, 역할 맥락을 더 강조했다. 성인기의 변화에 대응하기 위해 career maturity보다 career adaptability가 적절하다는 논의가 등장했다.
+
+### 상담/연구
+현재 직업문제만 보지 않고 “지금 생애에서 어떤 역할이 충돌하는가?”, “어떤 자아개념을 구현하려는가?”, “이번 전환은 어떤 발달과업을 요구하는가?”를 묻는다.
+
+### 한계
+연령에 따른 고정 단계와 규범적 과업을 경직되게 적용하면 안 된다. 문화·계층·비선형 경력에 대한 설명은 후속 이론이 보완했다.
+
+**핵심 문헌:** Super (1953), doi:10.1037/h0056046; Super (1980), doi:10.1016/0001-8791(80)90056-1; Super &amp; Knasel (1981), doi:10.1080/03069888108258214.
+
+## 5. Gottfredson의 Circumscription and Compromise — 근거 C
+**핵심 질문:** 사람은 왜 특정 직업을 고려하기도 전에 ‘나와 안 맞는 직업’으로 제거하는가?
+
+### 핵심 구성
+**Circumscription**은 사회적 이미지와 자기개념에 따라 직업 대안을 점차 좁히는 과정, **Compromise**는 접근 가능한 대안이 제한될 때 선호를 조정하는 과정이다. 성별 전형성, 사회적 지위/명성, 직업분야 등이 social space를 구성한다.
+
+### 상담에서의 번역
+내담자가 “관심이 없다”고 말하는 선택지 중 일부가 정말 흥미가 없는 것인지, 아니면 성별규범·가족기대·명성·경제적 접근성 때문에 일찍 제거된 것인지 탐색한다.
+
+### 한계
+원 이론의 성별·사회계층 가정과 발달순서를 현대 문화에 그대로 적용하기 어렵다. SCCT/PWT와 비교해 최근 누적 메타근거는 상대적으로 약하다.
+
+**핵심 문헌:** Gottfredson, L. S. (1981). *Journal of Counseling Psychology, 28*, 545–579.
+
+## 6. Krumboltz의 Social Learning / Happenstance Learning Theory — 근거 C
+**핵심 질문:** 예측 불가능한 사건과 학습경험을 어떻게 진로기회로 바꿀 것인가?
+
+### 핵심 구성
+Planned Happenstance의 다섯 기술: **curiosity, persistence, flexibility, optimism, risk-taking**. 후기 Happenstance Learning Theory는 진로상담의 목표를 ‘완벽한 선택’보다 지속적인 학습과 행동으로 확장한다.
+
+### 작동 논리
+우연 자체를 통제할 수는 없지만 탐색행동을 늘리면 우연한 기회를 만날 확률과 이를 활용할 가능성을 높일 수 있다는 실천논리다.
+
+### 상담
+더 많은 생각만 요구하지 않고 작은 실험을 설계한다. informational interview, 단기 프로젝트, 직무 그림자 체험, 새로운 네트워크 접촉처럼 ‘정보를 행동으로 얻는’ 과제를 활용한다.
+
+### 근거와 한계
+이론적 영향력과 실천적 매력은 크지만 Holland·SCCT·career adaptability처럼 대규모 메타분석으로 세부 경로가 확립된 수준은 아니다. 구조적 불평등을 개인 책임으로 돌리지 않도록 주의한다.
+
+**핵심 문헌:** Mitchell, Levin, &amp; Krumboltz (1999), doi:10.1002/j.1556-6676.1999.tb02431.x; Krumboltz (2009), doi:10.1177/1069072708328861.
+
+
+## 7. Social Cognitive Career Theory (SCCT) — 근거 A
+**핵심 질문:** 자기효능감·결과기대·흥미·목표와 지지/장벽이 어떻게 진로선택과 수행으로 이어지는가?
+
+### 핵심 구성
+**self-efficacy, outcome expectations, interests, choice goals/actions**, contextual supports/barriers. 이후 satisfaction/well-being와 career self-management 모형으로 확장됐다.
+
+### 작동 논리
+학습경험은 self-efficacy와 outcome expectations를 만들고, 이들이 흥미 발달에 영향을 주며, 흥미와 기대가 목표·선택행동으로 연결된다. 맥락적 지지와 장벽은 선택과 실행 과정에서 직접 또는 간접적으로 작용한다.
+
+### 현재까지의 근거
+SCCT는 현대 진로심리학에서 누적근거가 가장 많은 이론군 중 하나다. Lent &amp; Brown(2019)은 25년간 interest, choice, performance 모형의 실증상태를 종합했다. Sheu et al.(2010)의 메타분석적 경로분석은 Holland 영역에 걸쳐 선택모형의 핵심 경로를 지지했다. STEM, 진로탐색, 자기효능감 등에서도 다수의 메타연구가 축적돼 있다.
+
+### 대표 측정
+SCCT는 **영역특이 측정**이 원칙이다. ‘일반 self-efficacy’보다 특정 선택/과제의 효능감을 측정해야 한다. Career Decision-Making Self-Efficacy Scale(CDSE/CDSE-SF)는 의사결정 효능감 측정에 널리 쓰인다.
+
+### 상담에서의 번역
+낮은 자기효능감은 단순 격려보다 mastery experience, modeling, verbal persuasion, 정서·생리 반응 조절을 통해 다룬다. outcome expectations가 왜곡됐는지, 실제 지지와 장벽이 무엇인지 동시에 점검한다.
+
+### 연구에서의 활용
+전공선택, STEM 지속, 진로탐색, 취업준비행동, 목표지속, 지지·장벽의 조절/매개모형에 강하다. 시간적 순서를 검증하려면 종단자료가 중요하다.
+
+### 한계
+cross-sectional SEM으로 SCCT 경로를 그렸다고 인과가 입증되는 것은 아니다. ‘장벽’도 개인이 느끼는 장벽과 객관적 제약을 구분해야 한다.
+
+**핵심 문헌:** Lent, Brown, &amp; Hackett (1994), doi:10.1006/jvbe.1994.1027; Sheu et al. (2010), doi:10.1016/j.jvb.2009.10.015; Lent &amp; Brown (2019), doi:10.1016/j.jvb.2019.06.004.
+
+## 8. SCCT의 Career Self-Management 모형 — 근거 A-/B+
+**핵심 질문:** 선택 이후에도 필요한 진로행동을 어떻게 스스로 시작하고 유지하는가?
+
+### 핵심 구성과 논리
+career exploration, decision-making, job search, networking, skill development 같은 **adaptive career behaviors**를 설명한다. 행동특이 self-efficacy, outcome expectations, goals, supports/barriers가 핵심이다.
+
+### 실천
+“진로준비를 더 해라”보다 목표 행동을 세분화한다. 예: 이번 주 2명의 현직자에게 연락하기 → 예상 장애물 → self-efficacy를 높일 작은 선행과제 → 결과기대 검증 → 다음 행동.
+
+### 연구
+진로준비행동의 선행요인과 개입기제를 연구하기 좋다. 다만 계획·탐색·네트워킹·구직행동은 서로 다른 행동이므로 하나의 총점으로 뭉치면 메커니즘이 흐려질 수 있다.
+
+**핵심 문헌:** Lent &amp; Brown (2013), doi:10.1037/a0033446.
+
+## 9. Gati의 Career Decision-Making Difficulties 모형 — 근거 A-/B+
+**핵심 질문:** 진로결정이 어려운 이유는 구체적으로 무엇인가?
+
+### 핵심 구성
+CDDQ의 대표적 상위영역은  
+1) **Lack of Readiness**  
+2) **Lack of Information**  
+3) **Inconsistent Information**
+
+하위요인에는 동기부족, 일반적 우유부단, 역기능적 신념, 의사결정과정/자기/직업/정보획득 방법의 정보부족, 신뢰하기 어려운 정보, 내적·외적 갈등 등이 포함된다.
+
+### 핵심 기여
+‘미결정’이라는 결과를 하나의 상태로 보지 않고 **의사결정 과정 어디에서 병목이 생기는지** 진단한다.
+
+### 근거
+1996년 taxonomy 이후 여러 국가·표본에서 검증됐다. Udayar et al.(2020)의 메타분석은 self-efficacy가 진로미결정과 유의하게 관련되며 특히 의사결정 과정에 가까운 self-efficacy가 더 밀접함을 보여준다.
+
+### 상담
+정보부족에는 정보를, 외적갈등에는 관계/가치 조정을, 역기능적 신념에는 인지개입을 제공한다. ‘미결정=정보 부족’이라는 단일 처방을 피한다.
+
+### 한계
+일부 하위요인은 서로 강하게 관련되고, general indecisiveness 같은 성향과 상황적 미결정을 구분해야 한다.
+
+**핵심 문헌:** Gati, Krausz, &amp; Osipow (1996), doi:10.1037/0022-0167.43.4.510; Gati &amp; Levin (2014), doi:10.1002/j.2161-0045.2014.00073.x; Udayar et al. (2020), doi:10.1177/1069072720910089.
+
+## 10. Cognitive Information Processing (CIP) — 근거 B
+**핵심 질문:** 좋은 진로문제해결과 의사결정을 위해 어떤 지식과 인지과정이 필요한가?
+
+### Pyramid of Information Processing Domains
+- Self Knowledge
+- Options Knowledge
+- Decision-Making Skills
+- Executive Processing
+
+최근 업데이트된 CASVE는 **Communication 1 → Analysis → Synthesis → Valuing → Execution → Communication 2**의 순환적 문제해결 과정으로 재정리된다.
+
+### 핵심 논리
+정보를 갖는 것만으로는 충분하지 않고, 정보를 처리하고 선택을 실행하며 자기대화/메타인지가 그 과정을 조절한다. 부정적 career thoughts는 실행을 방해할 수 있다.
+
+### 상담
+문제의 gap을 명료화하고 자기/선택지 정보를 정리하며 대안 생성→가치평가→실행계획으로 이동한다. 인지왜곡이 심하면 단순 정보제공보다 career thoughts를 먼저 다룬다.
+
+### 한계
+CASVE를 경직된 선형 절차로 쓰면 안 된다. 실제 의사결정은 순환·되돌아감이 흔하다.
+
+**핵심 문헌:** Peterson et al. (2024), *Reaching Further Into a Theory of Career Problem-Solving and Decision-Making*, doi:10.1177/08948453241299349.
+
+## 11. Career Construction Theory (CCT) — 근거 A-/B+
+**핵심 질문:** 변화하는 사회에서 개인은 어떻게 자신의 경력을 계속 구성하고 재구성하는가?
+
+### 세 축
+- **Vocational personality**: 무엇을 선호하고 할 수 있는가
+- **Career adaptability**: 변화·과업·전환에 대응할 심리사회적 자원
+- **Life themes**: 왜 이 삶과 일을 선택하고 어떤 의미를 부여하는가
+
+### 근거
+career adaptability에는 90개 연구를 종합한 Rudolph et al.(2017) 메타분석과 dimension-level meta-analysis가 있다. adaptability는 계획·탐색·CDSE 같은 adapting responses와 직업정체성·만족·고용가능성·웰빙 등 여러 adaptation outcomes에 관련된다. 다만 CCT의 life themes와 내러티브 부분은 adaptability 연구만큼 계량적 누적근거가 강하지 않다.
+
+### 대표 측정
+Career Adapt-Abilities Scale(CAAS; 24문항: Concern, Control, Curiosity, Confidence), CAAS-SF, SCCI, Career Construction Interview.
+
+### 상담
+낮은 adaptability를 총점만 보고 개입하지 않는다.
+- **Concern 부족** → 미래 시간관, 계획
+- **Control 부족** → 책임, agency
+- **Curiosity 부족** → 자기/환경 탐색
+- **Confidence 부족** → 문제해결 성공경험
+
+### 한계
+career adaptability를 ‘모든 좋은 특성’의 대명사로 확장하면 구성개념 팽창이 생긴다. 환경·제도적 조건을 개인의 적응능력으로만 환원하지 말아야 한다.
+
+**핵심 문헌:** Savickas (1997), doi:10.1002/j.2161-0045.1997.tb00469.x; Savickas &amp; Porfeli (2012), doi:10.1016/j.jvb.2012.01.011; Rudolph, Lavigne, &amp; Zacher (2017), doi:10.1016/j.jvb.2016.09.002.
+
+## 12. Career Construction Model of Adaptation (CCMA) — 근거 A-/B+
+**핵심 질문:** 진로적응이 ‘준비성→자원→행동→결과’라는 과정으로 실제 작동하는가?
+
+### 4A
+**A1 Adaptivity / adaptive readiness → A2 Adaptability resources → A3 Adapting responses → A4 Adaptation results**
+
+### 근거
+Rudolph et al.(2017)은 90개 연구에서 네 영역 간 관련성을 광범위하게 지지했다. 그러나 모든 연구가 4단계의 시간적 인과를 직접 검증한 것은 아니다.
+
+2026년 101개 CCMA 적용연구를 종합한 리뷰는:
+- 완전한 4단계 검증보다 일부 경로 검증이 많고,
+- 탐색·확립기에 연구가 집중되며,
+- feedback/cyclical paths가 부족하고,
+- 변수의 4A 배치가 연구마다 일관되지 않음을 지적했다.
+
+Sam et al.(2026)은 직장인 N=1,000과 대학생 N=323에서 여러 척도의 공통분산을 이용해 4A 구조와 serial relations을 지지했다. 다만 자기보고와 구조모형이 시간적 인과를 입증하는 것은 아니다.
+
+### 연구에서의 핵심
+A2는 CAAS가 표준에 가깝지만 A1·A3·A4는 여러 지표가 쓰인다. **변수 배치의 이론적 근거를 명시하는 것**이 CCMA 연구 품질의 핵심이다.
+
+### 가장 큰 연구기회
+A4의 좋은 결과가 다시 A1/A2를 강화하는지, 실패가 self-doubt를 높이는지 같은 **feedback loop**를 다파 종단으로 검증하는 것.
+
+**핵심 문헌:** Rudolph et al. (2017), doi:10.1016/j.jvb.2016.09.002; Yuwen, Xiao, &amp; Yao (2026), doi:10.3724/SP.J.1042.2026.1695; Sam et al. (2026), doi:10.3389/fpsyg.2026.1799936.
+
+## 13. Career Construction Counseling / Life Design — 근거 B-/C+
+**핵심 질문:** 검사점수보다 삶의 이야기를 통해 정체성과 다음 행동을 어떻게 재구성할 것인가?
+
+### 핵심
+career story, narrative ident
