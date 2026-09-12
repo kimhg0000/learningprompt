@@ -1,0 +1,369 @@
+ity, life themes, meaning-making, adaptability, agency. Career Construction Interview와 My Career Story 같은 구조화된 내러티브 도구가 널리 알려져 있다.
+
+### 근거
+개별 연구와 체계적 고찰에서 긍정적 변화가 보고되지만 broad career intervention meta-analysis만큼 표준화된 누적효과근거는 강하지 않다. 2024년 intervention review들은 결과가 대체로 긍정적이지만 연구설계와 outcome이 이질적이며 장기추적이 적다는 점을 지적한다. 2026년의 소규모 연구들도 긍정 결과를 보고했으나 대규모 RCT의 대체근거는 아니다.
+
+### 상담
+전환, 상실, 정체성 혼란, ‘내가 왜 이 일을 해야 하는지 모르겠다’는 문제에서 강점이 있다. 상담자가 이야기를 대신 해석하기보다 내담자가 반복 주제와 자원을 발견해 미래 행동과 연결하도록 돕는다.
+
+### 한계
+상담자의 과잉해석, intervention fidelity 측정, 비교조건의 약함, 장기추적 부족이 주요 한계다.
+
+**핵심 문헌:** Savickas et al. (2009), doi:10.1016/j.jvb.2009.04.004; Savickas (2012), doi:10.1111/j.1556-6676.2012.00002.x; 2024 intervention review, doi:10.3389/fpsyg.2024.1381233.
+
+## 14. Systems Theory Framework (STF) — 근거 B-/C(목적상 메타이론)
+**핵심 질문:** 개인의 진로를 둘러싼 사람·가족·문화·제도·시간·우연을 어떻게 한 지도에 놓을 것인가?
+
+### 핵심 구성
+- individual system
+- social system
+- environmental-societal system
+- time
+- recursiveness/interactions
+- change
+- chance
+
+### 핵심 성격
+STF는 하나의 좁은 인과이론보다 여러 진로이론과 맥락변수를 통합하는 **metatheoretical map**이다. 어떤 변수가 중요할지는 개인과 상황에 따라 달라진다.
+
+### 상담
+개인요인, 가족/친구, 교육기관/조직, 노동시장/경제/문화, 과거-현재-미래, 우연한 사건을 지도화하고 상호작용을 묻는다. 사례를 개인내적 문제로 축소하지 않게 해준다.
+
+### 연구
+복합맥락 연구, 질적 연구, mixed methods, 비서구권 진로연구의 organizing framework로 적합하다.
+
+### 한계
+설명범위가 넓어서 특정 변수 간 예측을 강하게 제시하기 어렵다. 연구에서는 이론적 초점을 별도로 좁혀야 한다.
+
+**핵심 문헌:** Patton &amp; McMahon (2015), doi:10.1177/1038416215579944; McMahon, Watson, &amp; Patton (2015), doi:10.1177/1038416215572378.
+
+
+## 15. Psychology of Working Theory (PWT) — 근거 A-/B+
+**핵심 질문:** 사람이 원하는 직업을 ‘고르는 능력’ 이전에, decent work에 접근할 자유와 자원이 있는가?
+
+### 핵심 경로
+**economic constraints + marginalization → work volition / career adaptability → decent work → need satisfaction → work fulfillment / well-being**
+
+### 핵심 기여
+선택을 개인의 흥미·능력만의 산물로 보지 않고, 경제·사회적 제약이 실제 선택 자유(work volition)를 제한하고 decent work 접근을 어렵게 만든다고 본다.
+
+### 현재까지의 근거
+Duffy et al.(2016) 이후 검증이 빠르게 누적됐다. Choi et al.(2025)의 38개 연구 메타분석에서는 economic constraints, marginalization, work volition, career adaptability 모두 decent work의 유의한 예측요인이었고, work volition이 특히 강한 매개 역할을 보였다. 더 간명하게 work volition만 매개에 둔 모형도 비슷한 적합을 보였다는 점은 career adaptability의 PWT 내 역할을 계속 검증해야 함을 뜻한다.
+
+Atay et al.(2026)은 42개 고유 논문, 43개 효과크기, N=18,659을 종합해 work volition–decent work의 큰 양의 요약상관 **r=.48**을 보고했다. 다만 많은 1차 연구가 단면자료이므로 시간적 인과는 계속 검증해야 한다.
+
+### 대표 측정
+Work Volition Scale(WVS; working/student versions), Decent Work Scale(DWS), PWT need satisfaction scales. Duffy et al.(2023/2024)의 측정 권고는 construct–measure alignment를 특히 강조한다.
+
+### 상담에서의 번역
+‘왜 노력하지 않는가?’보다 ‘실제 선택 가능성이 얼마나 있는가?’를 묻는다. 경제적 의무, 차별, 돌봄, 비정규고용, 지역기회 등을 명시적으로 다루고, 개인 자원 강화와 구조적 자원 연결을 함께 고려한다.
+
+### 한계
+career adaptability 같은 개인자원을 지나치게 강조하면 PWT가 비판한 ‘개인 책임화’를 다시 만들 수 있다. 구조적 변수의 조작화도 문화에 맞게 해야 한다.
+
+**핵심 문헌:** Duffy et al. (2016), doi:10.1037/cou0000140; Choi et al. (2025), doi:10.1037/cou0000849; Atay et al. (2026), doi:10.1002/cdq.70023; Duffy et al. (2023), doi:10.1177/10690727231179196.
+
+## 16. Protean &amp; Boundaryless Career / Proactive Career Orientation — 근거 B+
+**핵심 질문:** 조직이 경력을 관리해 주는 시대가 약해질수록 자기주도성과 조직경계 이동 태도는 어떤 의미를 가지는가?
+
+### 핵심
+- Protean career: self-directed + values-driven
+- Boundaryless career: psychological mobility/mindset + physical/organizational mobility preference
+
+### 근거
+Wiernik &amp; Kostal(2019)은 135개 표본, 35개국, N=45,288을 종합했다. protean self-directed, values-driven, boundaryless psychological mobility는 큰 틀에서 **proactive career orientation**으로 묶일 수 있었고, physical mobility preference는 상당히 별개였다. proactive components는 career self-management와 career satisfaction에는 관련되지만 objective success와 actual mobility의 관계는 약했다.
+
+Li et al.(2021)은 현대 경력환경이 완전히 조직중심에서 개인중심으로 바뀐 것이 아니라 **조직·개인 중심 요소가 혼합**되어 있다고 정리했다.
+
+### 상담
+‘한 조직에 남으면 뒤처진다’는 규범을 주지 않는다. 자기주도성, 가치, 이동가능성, 조직지원, 경력자본을 구분한다.
+
+### 핵심 한계
+개념중복이 크며 physical mobility preference와 psychological mobility를 같은 것으로 취급하면 오류가 난다. objective career success와의 관계도 과장하면 안 된다.
+
+**핵심 문헌:** Wiernik &amp; Kostal (2019), doi:10.1037/cou0000324; Li et al. (2021), doi:10.1002/job.2510; Guan et al. (2018), doi:10.1016/j.jvb.2018.05.013.
+
+## 17. Career Competencies — 근거 B+ (2026년 메타근거 강화)
+**핵심 질문:** 현대 경력에서 스스로 경력을 관리하기 위해 어떤 역량 묶음이 필요한가?
+
+### 핵심
+knowing why/whom/how 전통과 함께 reflection, networking, work exploration, career control 등 여러 조작화가 존재한다. 하나의 보편적 taxonomy로 완전히 합의된 상태는 아니다.
+
+### 2026년 근거
+De Rosa et al.(2026)은 32개 연구, N=13,153의 정량 메타분석을 통해 career competencies가 work engagement, work performance, subjective/objective career success, perceived employability 및 낮은 turnover intention과 관련됨을 보고했다. antecedents에는 protean career orientation과 organizational career management가 포함됐다.
+
+### 연구 시 주의
+척도와 taxonomy가 다양하며 adaptability·proactivity·employability와의 중복을 통제해야 한다. “역량이 좋은 결과와 상관된다”를 “역량훈련이 인과적으로 결과를 개선한다”로 바꾸어 말해서는 안 된다.
+
+**핵심 문헌:** De Rosa, Akkermans, Khapova, &amp; Lo Presti (2026), doi:10.1108/CDI-10-2025-0572.
+
+## 18. Vocational Identity Status / VISA — 근거 B+
+**핵심 질문:** 진로정체감은 단순히 ‘높다/낮다’가 아니라 어떤 탐색·전념·재고 과정의 조합으로 존재하는가?
+
+### VISA의 6과정
+- **Exploration:** in-breadth, in-depth
+- **Commitment:** commitment making, identification with commitment
+- **Reconsideration:** career self-doubt, commitment flexibility
+
+원 연구에서는 achieved, searching moratorium, foreclosed, moratorium, undifferentiated, diffused의 여섯 status가 제시됐다.
+
+### 핵심 논리
+정체성은 ‘탐색을 많이 하면 좋다’가 아니다. 탐색의 종류, 전념의 형성·동일시, 기존 선택의 재고가 함께 움직이는 발달체계다. 같은 탐색 고점이라도 전념과 self-doubt 조합에 따라 의미가 달라질 수 있다.
+
+### 근거
+Porfeli et al.(2011)은 고등학생과 대학생에서 다차원 구조를 제시했다. 이후 여러 문화에서 VISA 구조가 검토됐다. Šimunović et al.(2026)은 Study 1 N=770에서 Croatian VISA 구조를 검증하고, Study 2에서 N=549를 시작으로 3년에 걸쳐 추적했다. 전체적으로 commitment와 in-depth exploration의 증가, flexibility의 감소가 나타났지만 교육트랙에 따라 변화양상이 달랐다. 이는 정체성 발달이 개인내적 과정뿐 아니라 교육맥락에 의해 달라질 수 있음을 보여준다.
+
+### 상담
+status 명칭으로 사람을 낙인찍기보다 **어떤 과정이 병목인지** 본다. self-doubt가 높은가, 깊이 탐색이 부족한가, 전념은 있으나 탐색이 부족한가를 개입목표로 바꾼다.
+
+### 연구에서의 핵심
+LPA/LTA와 잘 맞지만 status는 표본·척도·모형에 의해 추정되는 잠재집단이다. 변수중심(6과정 종단관계)과 사람중심(status transition)을 함께 보면 더 강하다.
+
+### 한계
+프로파일 수와 명칭은 모든 표본에서 동일하게 재현되는 자연종류가 아니다. 특정 status가 한 표본에서 안 나왔다고 그 status가 일반적으로 존재하지 않는다고 말하면 안 된다.
+
+**핵심 문헌:** Porfeli et al. (2011), doi:10.1016/j.adolescence.2011.02.001; Negru-Subtirica et al. (2015), doi:10.1016/j.jvb.2015.03.004; Šimunović, Šverko, &amp; Babarović (2026), doi:10.1177/10690727261430348.
+
+## 19. Calling, Meaningful Work, Decent Work — 근거 B+
+**핵심 질문:** ‘일이 중요하고 의미 있다’는 경험을 어떻게 구분해야 하는가?
+
+### 세 개념
+- **Calling:** 일을 소명/부름/핵심 삶의 방향처럼 경험하는 관계적·정체성적 orientation
+- **Meaningful work:** 현재 일이 중요하고 가치 있으며 목적성이 있다고 경험하는 정도
+- **Decent work:** 안전·적절한 보상·휴식·가치정합 등 ‘좋은 일의 기본조건’에 가까운 PWT 개념
+
+### 근거
+Calling의 2023 메타분석은 **201개 연구**를 종합해 calling이 특히 work-related/eudaimonic outcomes와 밀접함을 보였다. meaningful work의 메타연구도 engagement, commitment, satisfaction과 강한 관련을 보고한다. 다만 상당수 근거가 상관연구라서 ‘calling을 높이면 모든 결과가 좋아진다’는 인과주장은 피해야 한다.
+
+### 핵심 구분
+의미를 느낀다고 노동조건이 decent한 것은 아니다. calling이 강해도 과로·착취가 정당화되지 않는다.
+
+### 상담
+“의미 있는 일을 찾으라”는 압박보다 현재 일에서 의미를 만드는 방식, 다른 삶의 영역에서 의미를 확보하는 방식, 일의 조건이 최소한 괜찮은지 등을 분리한다.
+
+**핵심 문헌:** Riza et al. (2023), doi:10.1177/00018392231159641; Thompson &amp; Bunderson (2019), doi:10.1146/annurev-orgpsych-012218-015140; Blustein, Lysova, &amp; Duffy (2023), doi:10.1146/annurev-orgpsych-031921-024847.
+
+## 20. Career Resilience — 근거 B-/C+
+**핵심 질문:** 경력의 역경·중단·충격 이후 어떻게 지속하고 회복하며 때로는 성장하는가?
+
+### 최소 정의
+1. adversity/disruption가 실제로 존재하고,
+2. 그 이후 positive adaptation가 발생하며,
+3. 과정이 시간에 걸쳐 전개된다.
+
+### 근거
+Mishra &amp; McDonald(2017)의 통합적 리뷰는 career resilience의 정의와 조작화가 불일치하며 ability, trait, process, outcome이 혼재한다고 지적했다. 따라서 “resilience 점수가 높다”는 단면 자기보고만으로 실제 역경에서의 회복과정을 입증했다고 보기 어렵다.
+
+### 가장 중요한 연구 원칙
+사건 기반(event-based) 종단설계가 이론에 가장 잘 맞는다. adversity severity, 자원, 행동, 회복결과를 시간순으로 분리한다.
+
+### Adaptability와의 구분
+- **Career adaptability:** 예상/현재 과업·전환을 다루는 광범위한 psychosocial resource
+- **Career resilience:** 실제 역경 이후의 긍정적 적응 과정
+
+**핵심 문헌:** London (1983), doi:10.5465/amr.1983.4284664; Mishra &amp; McDonald (2017), doi:10.1177/1534484317719622.
+
+## 21. Psychological Flexibility / ACT와 진로발달의 접점 — 근거 C+(진로영역)
+**핵심 질문:** 불안·의심·실패 가능성을 없애지 못해도 가치에 맞는 진로행동을 할 수 있는가?
+
+### 핵심
+ACT의 psychological flexibility는 현재 경험에 개방적으로 접촉하면서 가치 있는 방향에 맞춰 행동을 지속·변경하는 능력으로 설명된다. 주요 과정은 acceptance, cognitive defusion, present-moment awareness, self-as-context, values, committed action이다.
+
+### 진로에서의 가설적 위치
+“불안을 제거한 뒤 행동”이 아니라 **불안을 지닌 채 가치에 맞는 탐색·준비·의사결정 행동**을 가능하게 하는 readiness/process로 볼 수 있다. career adaptability는 career-specific resource, proactive behavior는 실제 행동으로 구분할 수 있다.
+
+### 근거
+Russo et al.(2023)은 N=498 성인 단면자료에서 psychological flexibility와 career adaptability, well-being의 관계를 보고했지만 인과는 말할 수 없다. 2026년 대학생 two-wave 연구 등은 PF→later adaptability→proactive behavior의 가능성을 제시하지만 누적근거는 초기 단계다. 직장영역에서는 ACT/PF 연구가 더 축적됐으나, PF 측정이 AAQ-II에 과도하게 의존해 왔다는 비판과 종단·개입근거 부족이 존재한다.
+
+### 척도
+AAQ-II는 distress/negative affect와의 변별성 논쟁이 있어 자동 선택하지 않는 편이 좋다. WAAQ, MPFI, CompACT, PsyFlex, PPFI 등이 대안이다.
+
+### 연구기회
+PF → adaptability → adapting behavior를 3시점 이상 또는 intervention-mediated change로 검증. **PF와 adaptability의 discriminant/incremental validity를 먼저 입증**하는 것이 중요하다.
+
+**핵심 문헌:** Russo et al. (2023), doi:10.1080/03069885.2023.2212856; Waldeck et al. (2021), doi:10.1016/j.jcbs.2021.01.002; Rad et al. (2025), doi:10.1016/j.jcbs.2025.100915.
+
+## 22. AI-Assisted Career Guidance — 근거 C
+**핵심 질문:** AI를 진로상담에 쓰되 학생의 agency, 공정성, 개인정보, 판단능력을 어떻게 보호할 것인가?
+
+### 현재 응용유형
+1. generative chatbots
+2. predictive analytics
+3. recommender ecosystems
+
+핵심 연구개념은 personalization, explainability, trust, automation bias, agency, fairness, human oversight다.
+
+### 2026년 근거
+Sarmurzin et al.(2026)은 2015–2025년 대학생 AI career counselling **43개 연구**를 체계적으로 검토했다. AI가 접근성과 규모확장, 정보지원에 가능성을 보이지만 다수 시스템이 prototype 단계이고 장기추적이 부족하며, trust/empathy, explainability, bias, automation bias 문제가 남아 있다고 정리했다.
+
+**현재 공개 근거로 AI가 인간 상담보다 우월하거나 인간 상담을 대체할 수 있다고 말할 근거는 없다.**
+
+### 상담/설계 원칙
+- 적합한 사용: 직업정보 초안, 질문생성, 대안확장, 모의면접, 상담 전 reflection
+- 고위험 사용: “당신에게 최적의 직업은 X”처럼 결정권을 AI가 사실상 가져가는 추천
+- 원칙: 출처검증, 불확실성 표시, 여러 대안, 사용자의 contestability, 최종 결정권 보장
+
+### 가장 가치 있는 연구
+**Human-only vs AI-only vs Human+AI**, XAI 유무, AI literacy 훈련, 장기 behavior outcome, automation bias, 알고리즘 추천이 탐색 폭과 정체성에 미치는 영향.
+
+**핵심 문헌:** Sarmurzin et al. (2026), doi:10.3389/feduc.2026.1787689.
+
+---
+
+# PART III. 핵심 구성개념 사전
+
+## 3.1 한 문장 정의와 경계
+
+| 개념 | 가장 짧은 정의 | 가장 가까운 이웃 | 반드시 구분할 점 |
+|---|---|---|---|
+| Vocational interest | 특정 활동·환경에 대한 선호 | RIASEC, curiosity | 능력·가치와 동일하지 않음 |
+| Congruence | 개인 특성과 환경 특성의 대응/일치 | P–E fit | 계산법에 따라 결과가 달라질 수 있음 |
+| Work values | 일에서 중요하게 여기는 결과/조건 | needs, reinforcers | 흥미와 다름 |
+| Career self-efficacy | 특정 진로과업을 수행할 수 있다는 믿음 | confidence | 과업특이성이 중요 |
+| Outcome expectations | 행동 후 예상되는 결과 | goals | “할 수 있다”와 “하면 무엇이 생긴다”는 다름 |
+| Career exploration | 자기·직업세계를 조사하는 행동/과정 | curiosity | 탐색량이 많다고 항상 적응적인 것은 아님 |
+| Career indecision | 결정을 내리지 못한 상태/곤란 | decidedness | 원인이 여러 종류 |
+| Career decidedness | 선택이 얼마나 정해져 있는가 | vocational identity | 결정했다고 정체성이 성숙한 것은 아님 |
+| Vocational identity | 직업적 자기개념·선택이 얼마나 명료하고 내면화돼 있는가 | commitment | process/status 관점 필요 |
+| Commitment | 선택을 하고 동일시하는 과정 | decidedness | commitment making과 identification 구분 |
+| Reconsideration | 기존 전념을 다시 검토하는 과정 | flexibility, self-doubt | 두 하위과정의 의미가 다름 |
+| Career adaptability | 진로과업·전환·충격에 대응하는 심리사회적 자원 | resilience, PF | 4C 구조, adversity 필수 아님 |
+| Adaptivity | 적응하려는 성향/준비성 | proactive personality | adaptability와 다름 |
+| Adapting | 실제 적응 행동/반응 | preparation behavior | 자원 자체가 아니라 response |
+| Adaptation | 적응의 결과 | satisfaction, identity, employability | 행동과 결과를 섞지 말 것 |
+| Career resilience | 실제 역경 속 지속·회복·긍정적 적응 과정 | adaptability | adversity와 시간적 회복이 핵심 |
+| Employability | 일을 얻고 유지·전환할 가능성/지각/자원 | competencies | 객관/주관 employability 구분 |
+| Work volition | 제약에도 불구하고 일을 선택할 자유가 있다고 느끼는 정도 | autonomy | 일반 자기결정성과 다름 |
+| Decent work | 기본적 인간적·안전·보상·가치 조건을 충족하는 일 | meaningful work | 의미 있음과 조건이 괜찮음은 다름 |
+| Meaningful work | 현재 일이 중요·가치·목적 있다고 느끼는 경험 | calling | calling 없이도 meaningful 가능 |
+| Calling | 일을 삶의 중요한 부름/방향으로 경험하는 orientation | meaningful work | 모든 사람에게 필수 목표가 아님 |
+| Psychological flexibility | 불편한 경험을 수용하며 가치에 맞춰 행동을 유연하게 지속/변경 | adaptability | 임상/행동과정 vs 진로특이 자원 |
+| Protean orientation | 자기주도·가치중심 경력태도 | proactive orientation | objective success를 강하게 보장하지 않음 |
+| Boundaryless mindset | 조직경계를 넘는 경험에 개방적인 태도 | mobility preference | 실제 이직 선호/행동과 다름 |
+| Career competencies | 경력관리를 가능하게 하는 학습 가능한 역량군 | adaptability | taxonomy가 통일되지 않음 |
+| Career barrier | 목표를 방해한다고 지각하는 개인/환경 조건 | constraints | 지각된 장벽 vs 객관적 제약 |
+| Career support | 진로행동을 돕는 사회/환경 자원 | social support | 유형과 출처를 구체화 |
+
+## 3.2 “헷갈리면 여기부터”
+
+### Career adaptability vs Career resilience
+- **Adaptability:** 앞으로의 과업·전환·문제에 대처할 자원. adversity가 반드시 발생할 필요 없음.
+- **Resilience:** 상당한 역경/중단이 실제 존재하고 그 속에서 긍정적 적응이 전개되는 과정.
+- resilience 연구에서 adversity를 측정하지 않으면 구성개념 타당성 질문을 받을 수 있다.
+
+### Career adaptability vs Psychological flexibility
+- **Adaptability:** career-specific psychosocial resources(Concern, Control, Curiosity, Confidence).
+- **Psychological flexibility:** 불편한 생각·감정이 있어도 상황과 가치에 맞게 행동하는 광범위한 기능적 과정.
+- 둘 다 ‘유연성’을 포함하지만 level과 이론기원이 다르므로 중복/증분타당도를 검증해야 한다.
+
+### Career decidedness vs Vocational identity
+- **Decidedness:** “정했는가?”
+- **Identity:** “그 선택을 어떤 탐색과 전념 과정을 거쳐 얼마나 자기 것으로 만들었는가?”
+- 조기 전념은 decidedness가 높아도 충분한 탐색이 낮을 수 있다.
+
+### Exploration in breadth vs Exploration in depth
+- **Breadth:** 가능한 여러 대안을 넓게 탐색.
+- **Depth:** 선택하거나 유력한 대안을 깊게 검토.
+- 발달단계와 맥락에 따라 둘의 적응적 의미가 다를 수 있다.
+
+### Commitment flexibility vs Career self-doubt
+- **Flexibility:** 선택이 바뀔 수 있음을 인정하고 대안을 열어 두는 측면.
+- **Self-doubt:** 자신에게 맞는 진로를 찾을 수 있을지에 대한 의심.
+- 같은 ‘재고’로 뭉치면 searching moratorium의 의미를 놓칠 수 있다.
+
+### Interest congruence vs Needs/values fit
+- **RIASEC congruence:** 좋아하는 활동/환경의 유형적 일치.
+- **TWA needs–reinforcers fit:** 직무가 내가 중요하게 여기는 보상/조건을 제공하는가.
+
+### CDSE vs Career adaptability
+- **CDSE:** “나는 의사결정 과업을 잘할 수 있다.”
+- **Adaptability:** 계획·통제·탐색·자신감의 더 넓은 self-regulatory resource.
+- 관련되지만 동일 구성개념은 아니다.
+
+### Work volition vs Autonomy
+- **Work volition:** 사회·경제적 제약 속에서도 직업선택의 자유를 얼마나 가진다고 느끼는가.
+- **Autonomy:** 일반적으로 행동/업무에서 자기결정성을 경험하는 정도.
+
+### Decent work vs Meaningful work vs Calling
+- **Decent:** 최소한 괜찮은 조건인가?
+- **Meaningful:** 나에게 중요한가?
+- **Calling:** 일이 나의 정체성과 삶의 방향에서 특별한 부름인가?
+
+### Adaptivity → Adaptability → Adapting → Adaptation
+**준비성/성향 → 자원 → 행동 → 결과.**  
+이 네 단어를 연구모형에서 섞지 않는 것만으로 CCMA 연구의 개념적 품질이 크게 올라간다.
+
+
+---
+
+# PART IV. 척도·평가도구 색인
+
+&gt; **저작권 주의:** 아래는 어떤 도구가 무엇을 측정하는지 설명하는 색인이다. 원문 문항을 재배포하지 않는다. 실제 사용 시 원저자/출판사, 번안·사용 허가, 한국판 타당화 여부를 별도 확인해야 한다.
+
+| 도구 | 핵심 측정 | 대표 대상 | 연구 시 주의 |
+|---|---|---|---|
+| SDS / RIASEC inventories | 직업흥미 6유형 | 청소년–성인 | 직업 처방이 아니라 탐색용 |
+| O*NET Interest Profiler | RIASEC 흥미 | 학생–성인 | 국가·직업DB 맥락 차이 |
+| MIQ | work needs/values | 근로자 | TWA reinforcer 대응과 함께 해석 |
+| MSQ | job satisfaction | 근로자 | fit 자체가 아니라 만족 결과 |
+| CDSE / CDSE-SF | 진로의사결정 자기효능감 | 학생–성인 | general self-efficacy와 구분 |
+| CDDQ | 진로의사결정곤란 | 청소년–성인 | 3상위/여러 하위요인 구조 검토 |
+| Career Thoughts Inventory | 역기능적 진로사고 | 학생–성인 | 상업적 사용조건 확인 |
+| CAAS 24 | Concern/Control/Curiosity/Confidence | 청소년–성인 | 총점과 하위차원 모두 검토 |
+| CAAS-SF 12 | CAAS 단축형 | 연구·현장 | 단축형은 세부개입 정보 감소 |
+| SCCI | career construction tasks/adapting | 학생 중심 | A3 adapting으로의 배치 근거 명시 |
+| VISA | 탐색·전념·재고 6과정 | 청소년·대학생 | 시점/집단 간 measurement invariance |
+| WVS | work volition | 학생/근로자 버전 | autonomy와 구분 |
+| DWS | decent work | 근로자 | 국가 노동환경·문화 고려 |
+| PWT Need Satisfaction Scales | PWT의 욕구충족 | 근로자 | decent work 이후 경로 |
+| PCAS | protean career attitude | 주로 성인 | proactive orientation과 중복 |
+| BCAS | boundaryless attitudes | 주로 성인 | mindset와 mobility preference 분리 |
+| Career Competencies instruments | 경력관리 역량 | 학생/근로자 | taxonomy가 도구마다 다름 |
+| Perceived Employability scales | 지각된 고용가능성 | 학생/근로자 | internal/external·objective 구분 |
+| CVQ 등 | calling | 학생/근로자 | calling 정의가 도구마다 다름 |
+| WAMI | meaningful work | 근로자 | calling과 대체하지 않음 |
+| WAAQ | work-related psychological flexibility | 근로자 | 직장 맥락 특화 |
+| MPFI | flexibility/inflexibility 다차원 | 성인 | 길이와 연구목적 고려 |
+| CompACT | ACT process의 압축 측정 | 성인 | sub-process 해석 신중 |
+| PPFI | 개인 가치목표에 맥락화된 PF | 성인 | 목표 지정 방식 확인 |
+| MSCI | systems of career influences | 청소년/성인 | 정성·반성적 평가 성격 |
+
+## 4.1 척도 선택 원칙 10개
+1. **이론의 구성개념과 실제 문항 내용이 같은가**를 먼저 본다.
+2. 한국어 번안이 있다고 끝이 아니라 **요인구조·신뢰도·타당도**를 확인한다.
+3. 집단비교를 하면 measurement invariance를 검토한다.
+4. 종단연구라면 longitudinal measurement invariance를 우선 고려한다.
+5. 단축형은 조사부담을 줄이지만 세부 하위요인 개입에는 불리할 수 있다.
+6. X, M, Y가 문항 내용상 거의 같은 긍정자기평가라면 construct redundancy를 의심한다.
+7. 상태/과정을 연구하면서 trait 척도만 사용하지 않는다.
+8. objective outcome이 가능한데 모든 변수를 self-report로만 측정하지 않는다.
+9. person-centered analysis의 profile/status는 척도와 표본에 의존한다.
+10. **유명한 척도보다 연구문제에 맞는 척도**가 우선이다.
+
+## 4.2 척도 선택에서 자주 생기는 오류
+
+### 오류 A: “Career adaptability가 유명하니 일단 CAAS”
+연구문제가 실제 **행동(adapting)**이라면 CAAS만으로는 행동을 측정한 것이 아니다. planning/exploration/preparation 같은 행동지표가 따로 필요하다.
+
+### 오류 B: “불안이 있으니 AAQ-II”
+AAQ-II는 psychological inflexibility 측정에 오래 쓰였지만 distress/negative affect와의 변별성 논쟁이 있다. 진로·직장 맥락에서는 WAAQ, 다차원 과정이 중요하면 MPFI/CompACT, 가치목표에 맥락화하려면 PPFI 등을 함께 검토한다.
+
+### 오류 C: “결정했는지 보려고 VISA”
+VISA는 단순 decidedness 척도가 아니다. exploration–commitment–reconsideration의 **과정 구조**를 보려는 경우에 적합하다.
+
+### 오류 D: “Meaningful work와 calling은 비슷하니 하나만”
+연구 질문이 “현재 일이 의미 있는가”라면 meaningful work, “일을 삶의 부름으로 경험하는가”라면 calling이다. decent work는 다시 별개의 노동조건 개념이다.
+
+---
+
+# PART V. 진로상담 개입의 Evidence Map
+
+## 5.1 진로상담은 효과가 있는가?
+
+**사실:** 광범위한 career choice interventions의 메타분석은 평균적으로 유의한 긍정효과를 보고한다. Whiston et al.(2017)은 **57개 연구**를 종합해 전체 weighted mean effect size 약 **.35**를 보고했고, CDSE 같은 일부 결과에서는 더 큰 효과가 관찰됐다.
+
+2025년 individual career counseling 메타분석은 **35개 독립표본**에서 career outcome과 mental-health outcome 모두 유의한 개선을 보고했지만 이질성이 있었다. 해당 연구가 보고한 가중 효과는 career outcomes에서 약 **g=.82**, mental-health outcomes에서 약 **g=.68**이었다. 이 수치는 연구구성·대조조건·결과지표가 다른 문헌의 종합치이므로 개별 상담의 효과를 그대로 예측하는 숫자로 쓰면 안 된다.
+
+**해석:** “어떤 형식이 언제나 최고”라고 결론 내리기보다, 내담자의 병목에 맞춰 **정보·인지·자기효능감·행동·정체성·맥락**을 맞춤형으로 개입하는 것이 이론과 근거에 더 부합한다.
+
+**주의:** critical ingredients 연구에서 상담자 지지, 가치명료화, psychoeducation, written exercises, individualized feedback 등이 효과와 관련돼 보고됐지만, 이것을 모든 요소의 독립적 인과효과가 확정
