@@ -1,0 +1,101 @@
+Within PWT.* doi:10.1177/10690727231179196
+48. Russo, A., Zammitti, A., Santisi, G., &amp; Magnano, P. (2023). Psychological flexibility and career adaptability. doi:10.1080/03069885.2023.2212856
+49. Talluri, S. B. et al. (2024). Career competencies self-regulation review. doi:10.1016/j.jvb.2024.103969
+50. Seibert, S. E., Akkermans, J., &amp; Liu, C.-H. (2023/2024). Contemporary Career Success review. doi:10.1146/annurev-orgpsych-120920-051543
+
+---
+
+# PART XI. 8주 학습 순서
+
+## Week 1 — 적합성
+Parsons → Holland → TWA  
+**질문:** 관심, 능력, 가치, 환경은 각각 무엇을 설명하고 무엇을 설명하지 못하는가?
+
+## Week 2 — 발달
+Super → career maturity/adaptability의 역사  
+**질문:** 고정 단계 이론이 현대 경력에서 어떻게 수정됐는가?
+
+## Week 3 — 믿음과 행동
+SCCT → Career Self-Management  
+**질문:** self-efficacy와 supports/barriers는 실제 behavior로 어떻게 연결되는가?
+
+## Week 4 — 결정
+Gati → CIP  
+**질문:** 미결정의 원인별로 개입이 달라져야 하는 이유는?
+
+## Week 5 — 적응
+CCT → CAAS → CCMA  
+**질문:** adaptivity, adaptability, adapting, adaptation을 정확히 구분할 수 있는가?
+
+## Week 6 — 정체성
+VISA → longitudinal identity studies  
+**질문:** exploration, commitment, reconsideration이 status와 change를 어떻게 만드는가?
+
+## Week 7 — 맥락과 공정성
+STF → PWT → decent work  
+**질문:** 개인의 자원과 사회구조를 한 연구모형에 어떻게 같이 넣을 수 있는가?
+
+## Week 8 — 최전선
+Psychological flexibility → career competencies → AI career guidance  
+**질문:** 새 구성개념이 기존 구성개념보다 무엇을 추가하는가?
+
+---
+
+# PART XII. 연구 선택 알고리즘
+
+새 연구 아이디어가 생겼을 때 아래 순서로 검토한다.
+
+1. **현상:** 정확히 무엇을 설명하려는가?
+2. **단위:** 흥미/신념/정체성/행동/결과/환경 중 어디에 속하는가?
+3. **기존 이론:** 이미 같은 현상을 잘 설명하는 이론이 있는가?
+4. **새 변수:** 기존 구성개념과 구별되는가?
+5. **측정:** 문항내용이 이론적 정의와 일치하는가?
+6. **시간:** 이론이 과정이라면 종단설계가 필요한가?
+7. **맥락:** 개인요인만으로 구조적 현상을 설명하고 있지 않은가?
+8. **대안모형:** 화살표를 반대로 그려도 말이 되는가?
+9. **결과:** 통계적 유의성 말고 실제 진로행동/전환/웰빙에 의미가 있는가?
+10. **개입가능성:** 결과가 맞다면 상담/교육/정책에서 무엇을 바꿀 수 있는가?
+11. **증분가치:** 새 변수가 기존 핵심변수보다 무엇을 더 설명하는가?
+12. **재현성:** 다른 표본·문화·시점에서도 같은 구조가 재현될 가능성을 어떻게 검증할 것인가?
+
+---
+
+# PART XIII. 출처 검증 메모
+
+이 자료는 다음 우선순위로 문헌을 확인했다.
+
+### 1) 고전 원전
+Parsons, Holland, Super, Dawis &amp; Lofquist, Lent–Brown–Hackett, Savickas, Duffy 등의 원 이론과 대표 척도개발 논문.
+
+### 2) 대규모 누적근거
+vocational interests, SCCT, career adaptability, career intervention, protean/boundaryless career, calling, PWT/decent work의 메타분석·체계적 고찰.
+
+### 3) 종단근거
+adaptability–identity, vocational identity process, PWT, school-to-work 및 career outcomes의 다파 연구.
+
+### 4) 2025–2026 업데이트
+- PWT predictors meta-analysis
+- work volition–decent work meta-analysis
+- career competencies meta-analysis
+- CCMA 101개 연구 review
+- CCMA multi-measure psychometric integration
+- VISA 3년 종단 연구
+- AI career counselling 43개 연구 systematic review
+
+### 5) 의도적으로 근거수준을 낮게 표시한 영역
+- Planned Happenstance의 세부 인과경로
+- Career Construction Counseling의 장기 비교효과
+- career-specific psychological flexibility
+- AI guidance의 장기 고용·정체성 결과
+- career resilience의 통일된 측정모형
+
+이 영역은 흥미롭고 이론적으로 가치가 있지만, **가능성을 확립된 효과처럼 표현하지 않았다.**
+
+---
+
+# 최종 요약
+
+1. 현대 진로심리학의 중심축은 **fit → development → cognition/action → adaptation/identity → context/decent work**로 확장돼 왔다.  
+2. 좋은 연구는 이론을 많이 붙이는 연구가 아니라 **구성개념의 경계, 시간적 과정, 실제 행동, 구조적 맥락**을 정확히 맞추는 연구다.  
+3. 2026년 이후 특히 유망한 경계는 **CCMA의 순환성, vocational identity transition, PWT의 인과검증, psychological flexibility, human+AI career guidance**다.
+</pre></body></html>
